@@ -1,1 +1,1 @@
-window.setTimeout(function(){alert("hi")},prompt(""));
+window.setTimeout(function(){alert("Time's up!")},(prompt("seconds")*1000));
